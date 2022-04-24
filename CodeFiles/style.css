@@ -1,0 +1,41 @@
+.header {
+	width: 100%;
+	height: 85px;
+	background-color: #67826b;
+	padding: 10px 0 0 20px;
+	border: 0px;
+	border-radius: 0px;
+}
+
+h1{
+	color: white;
+}
+
+li {
+	font-size: 120%;
+}
+
+div {
+	border: 2px solid #37e666;
+	border-radius: 20px;
+	height: 400px;
+	width: 300px;
+	display: inline-block;
+
+}
+
+.bigBox {
+	padding: 40px 0 0 0;
+	border: 5px solid transparent;
+	width: 100%;
+	text-align: center;
+	height: 400px;
+	display: inline-block;
+}
+
+img {
+	height: 200px;
+	position: relative;
+	top: 30px;
+	border-radius: 20px;
+}
